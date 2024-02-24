@@ -1,5 +1,5 @@
 :root {
-  --main-bg-color: radial-gradient(ellipse at center, #47918a 0%, #0b3161 100%) center center/cover no-repeat fixed;
+  --main-bg-color: linear-gradient(to right top, #ffa600, #f28c00, #e37100, #d35700, #c23b00);
   
   --modal-bg-color: linear-gradient(-90deg, #47918a 0%, #0b3161 100%) center center/cover no-repeat fixed;
   --modal-header-color: linear-gradient(-90deg, #47918a 0%, #0b3161 100%) center center/cover no-repeat fixed;

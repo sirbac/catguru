@@ -70,7 +70,7 @@
         "retro-terminal": {
           "css": [
             "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=b2ea498ff13040bc4594ddeb1ef3e445",
-            "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=5b8031420e620a084427a82a44687240",
+            "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=8939c1221fcf081bce9f2b66cf627168",
             "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=395aed61d19745e19d9f9d1e602e08e8",
             "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
             "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=051bbc07b5b26db06074d87a25fe8ddf",
@@ -87,7 +87,7 @@
   },
   "all-themes": {
     "Aquamarine": {
-      "url": "https://theme.catguru.org\n/css/theme-options/aquamarine.css?sha=591b3468083c72cda580a7c61d5d26ca"
+      "url": "https://theme.catguru.org\n/css/theme-options/aquamarine.css?sha=2002f9499634760c29fc7a48bc842c35"
     },
     "Blackberry-abyss": {
       "url": "https://theme.catguru.org\n/css/community-theme-options/blackberry-abyss.css?sha=5d1a651de367fb108de3a3ad87c36262"
@@ -445,7 +445,7 @@
           "retro-terminal": {
             "css": [
               "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=b2ea498ff13040bc4594ddeb1ef3e445",
-              "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=5b8031420e620a084427a82a44687240",
+              "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=8939c1221fcf081bce9f2b66cf627168",
               "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=395aed61d19745e19d9f9d1e602e08e8",
               "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
               "https://theme.catguru.org\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=051bbc07b5b26db06074d87a25fe8ddf",
@@ -618,7 +618,7 @@
   },
   "themes": {
     "Aquamarine": {
-      "url": "https://theme.catguru.org\n/css/theme-options/aquamarine.css?sha=591b3468083c72cda580a7c61d5d26ca"
+      "url": "https://theme.catguru.org\n/css/theme-options/aquamarine.css?sha=2002f9499634760c29fc7a48bc842c35"
     },
     "Dark": {
       "url": "https://theme.catguru.org\n/css/theme-options/dark.css?sha=38f08efadc40a771376804e112c15b00"
